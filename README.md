@@ -3,4 +3,4 @@
 
 Lazy River is Javascript & CSS Library that easily allows web developers to display infinitaly scrolling images.
 
-![Lazy River Demo](https://media.giphy.com/media/46fRafuIw43jqDuzvP/giphy.gif)
+<img src="https://media.giphy.com/media/46fRafuIw43jqDuzvP/giphy.gif" alt="Lazy River Demo" width="auto" height="auto">
